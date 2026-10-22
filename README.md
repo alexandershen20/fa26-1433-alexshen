@@ -24,3 +24,6 @@ Document the software requirements and the single command needed to reproduce th
 - Commit small, coherent changes with descriptive messages.
 - Never commit passwords, API keys, restricted data, or personally identifiable information.
 - Update this README whenever the reproduction steps or directory structure change.
+
+## Paper outline
+- https://docs.google.com/document/d/1nwOk9izx_HROC2wguDIaehclQkI1D8yZ4E9OECGE9R4/edit?usp=sharing
